@@ -6,7 +6,7 @@ For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
 
-## Screenshots
+## Screenshot
 <img src="./ss/ss_1.png" height="500em"/>
 
 ## Created & Maintained By
